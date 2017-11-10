@@ -1,0 +1,45 @@
+body {
+  min-height: 2000px;
+  padding-top: 51px;
+  background: url(../images/background1.jpeg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.maincontent {
+  background-color:white;
+}
+
+.navbar-default {
+  background-color: #00B1C7;
+  border-color: #00B1C7;
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
+  color: #FF6A31;
+  background-color: white;
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: white;
+}
+
+.top {
+
+  background: url(../images/top.jpg) no-repeat center center; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  padding:0
+}
+
+#pad.container {
+  padding-right: 0 !important;
+  padding-left: 0 !important;
+  margin-right: auto;
+  margin-left: auto;
+}
+
